@@ -1,3 +1,4 @@
+import os
 quit = input("Вы действительно хотите выйти? Yes/No -> ")
 if quit == "Yes":
   print("Досвидания!")
