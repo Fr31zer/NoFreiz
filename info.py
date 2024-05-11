@@ -8,4 +8,4 @@ if back == "Yes":
   os.system("clear")
   os.system("python main.py")
 if back == "No":
-print("[!] Хорошо, вы не вернетесь в главное меню")
+  print("[!] Хорошо, вы не вернетесь в главное меню")
